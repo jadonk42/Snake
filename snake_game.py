@@ -1,4 +1,7 @@
 #snake_game.py
+#CODE FOR GRAPHICAL INTERFACE FOR USER TO PLAY GAME.
+
+
 import snake_logic
 import pygame
 
