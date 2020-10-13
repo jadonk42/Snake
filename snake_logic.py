@@ -1,4 +1,6 @@
 #snake_logic
+#the logic for the game. both interfaces use this to represent the game, and board
+
 from random import randint
 #state and directions
 EMPTY = 'EMPTY'
