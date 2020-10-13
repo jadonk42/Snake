@@ -1,4 +1,7 @@
 #snake_console_ui.py
+#CODE FOR PLAYING THE GAME IN THE CONSOLE, BOARD REPRESENTED BY ASCII CHARACTERS
+#used for debugging, etc.
+
 import snake_logic
 def run():
     gamestate = snake_logic.Gamestate(10,10)
